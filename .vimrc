@@ -36,6 +36,6 @@ set clipboard=unnamed
 
 :ab ccal here is a link to my calendar:  http://goo.gl/hWPzz - please click on the "week" tab on the top-right corner to see beginning and ending times.  anything open would be good for me
 
-:ab #bcd #bigclinicaldata #bigdata
+:ab bcd #bigclinicaldata #bigdata
 
-:ab #gc #generationcontent
+:ab gc #generationcontent
