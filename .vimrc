@@ -39,3 +39,5 @@ set clipboard=unnamed
 :ab bcd #bigclinicaldata #bigdata
 
 :ab gc #generationcontent
+
+:ab rchunk ```{r}<CR>summary(cars$dist)<CR>summary(cars$speed)<CR>```
